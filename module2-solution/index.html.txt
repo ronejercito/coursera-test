@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<title>Assignment Solution for Module 2</title>
+</head>
+<body>
+
+<div class="row">
+	<div class="col-lg-1">
+		<div class="row">
+			<div class="col-lg-1">
+				Chicken
+			</div>
+		</div>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum dapibus lectus, nec faucibus tellus auctor vel. Nullam condimentum, mauris sit amet maximus suscipit, leo erat rutrum purus, eu lacinia enim ante sed tortor. Nulla eleifend libero erat, sit amet commodo enim hendrerit sed. Nunc purus sapien, fermentum ac ipsum eu, ultricies consectetur odio. Nam hendrerit porta dignissim. Suspendisse sollicitudin, orci a condimentum fringilla, odio felis scelerisque enim, ac euismod ipsum nisi ut ligula. Proin porta nisl nec velit tempus aliquet. </p>
+	</div>
+	<div class="col-lg-1">
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum dapibus lectus, nec faucibus tellus auctor vel. Nullam condimentum, mauris sit amet maximus suscipit, leo erat rutrum purus, eu lacinia enim ante sed tortor. Nulla eleifend libero erat, sit amet commodo enim hendrerit sed. Nunc purus sapien, fermentum ac ipsum eu, ultricies consectetur odio. Nam hendrerit porta dignissim. Suspendisse sollicitudin, orci a condimentum fringilla, odio felis scelerisque enim, ac euismod ipsum nisi ut ligula. Proin porta nisl nec velit tempus aliquet. </p>
+	</div>
+	<div class="col-lg-1">
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elementum dapibus lectus, nec faucibus tellus auctor vel. Nullam condimentum, mauris sit amet maximus suscipit, leo erat rutrum purus, eu lacinia enim ante sed tortor. Nulla eleifend libero erat, sit amet commodo enim hendrerit sed. Nunc purus sapien, fermentum ac ipsum eu, ultricies consectetur odio. Nam hendrerit porta dignissim. Suspendisse sollicitudin, orci a condimentum fringilla, odio felis scelerisque enim, ac euismod ipsum nisi ut ligula. Proin porta nisl nec velit tempus aliquet. </p>
+	</div>
+	
+</div>
+</body>
+</html>
