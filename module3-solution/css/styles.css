@@ -53,6 +53,10 @@ body {
     border: 0px;
 }
 
+.col-xs-12 {
+	float: none;
+}
+
 .outer {
 	box-sizing: border-box;
 	padding: 0px 20px 20px 20px;
@@ -85,7 +89,6 @@ body {
 
 #nav-list a {
 	color: #7dcea0;
-	/*text-align: center;*/
 }
 
 #nav-list a:hover {
@@ -102,5 +105,5 @@ body {
 
 #menuItem {
 	background-color: #abb2b9;
-	padding: 25px 30px 10px 30px;
+	padding: 10px 30px 10px 30px;
 }
