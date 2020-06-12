@@ -7,6 +7,7 @@ body {
 
 #header-nav {
 	background-color: #00203FFF;
+	border-radius: 0px;
 }
 
 .navbar-brand {
@@ -35,7 +36,6 @@ body {
 }
 
 .navbar-default {
-	/*background-color: #4a235a;*/
 	border-width: 0px;
 }
 
